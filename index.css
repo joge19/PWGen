@@ -37,7 +37,7 @@
 }
 
 #btn-copy {
-    background-image: url("copy.png");
+    background-image: url("./copy.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
